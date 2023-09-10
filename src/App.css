@@ -1,0 +1,8 @@
+footer {
+  text-align: center;
+}
+div.container {
+  border: 5px solid grey;
+  width: 700px;
+  padding-top: 20px;
+}
